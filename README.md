@@ -1,2 +1,2 @@
 # jaj
-jaj framework.
+Java configuration synchronization and parsing library
